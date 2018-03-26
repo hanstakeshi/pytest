@@ -21,3 +21,8 @@ singlemodeladmin==0.7
 six==1.11.0
 Unidecode==1.0.22
 xlrd==0.9.0
+# pytest - packages
+pytest==3.5.0
+git+git://github.com/mverteuil/pytest-ipdb.git
+pytest-cov==2.5.1
+
